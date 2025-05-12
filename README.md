@@ -1,4 +1,12 @@
-# Create T3 App
+# Promptr - a playground for targeted prompt engineering
+
+Promptr provides you with a playground in which you can test your prompts and quickly iterate
+- it shows you a history of the versions of your prompts
+- you can get an embedding for your prompt which can provide a proxy for how AI interprets your prompt. If you need to push the output significantly, you may want to make sure that you have adjusted your prompt into the right direction - ideally with some data science, we could use embeddings for this. 
+
+This project was built in the first Berlin Sundai Hack, May 11th 2025. Open for forks and further development by others!
+
+----
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
