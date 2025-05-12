@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "models_name_provider_idx" ON "promptr_models" USING btree ("name","provider");

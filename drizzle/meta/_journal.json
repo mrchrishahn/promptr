@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1746971864755,
+      "tag": "0000_add_pg_vector",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1746971880934,
+      "tag": "0001_wealthy_iron_fist",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1746975944362,
+      "tag": "0002_true_bishop",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1746976022209,
+      "tag": "0003_sparkling_bloodstorm",
+      "breakpoints": true
+    }
+  ]
+}
